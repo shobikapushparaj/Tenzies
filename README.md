@@ -10,3 +10,8 @@ A fun and interactive dice game built with React where your goal is to roll unti
 - 🔁 Auto-reset for new game when won
 - 🧠 React state & component-based architecture
 - 🎯 Unique ID assignment using `nanoid`
+
+## 🚀 Live Demo
+
+Check out the live game here: [Tenzies Dice Game](https://shobika-tenzies.netlify.app/)
+
